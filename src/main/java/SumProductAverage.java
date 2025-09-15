@@ -33,14 +33,14 @@ public class SumProductAverage {
             double num1 = sc.nextDouble();
             System.out.print("Enter a number:  ");
             double num2 = sc.nextDouble();
-            System.out.print("Enter a number:  ");
+            System.out.println("Enter a number:  ");
             double num3 = sc.nextDouble();
 
             // Preforms the math and prints the answer
             double sum = num1 + num2 +num3;
             double avg = sum/3;
             System.out.println("The average is " + avg );
-            System.out.println("\nThe sum is " + sum);
+            System.out.println("The sum is " + sum);
 
             double prod = num1 * num2 * num3;
             System.out.println("The product is " + prod);
