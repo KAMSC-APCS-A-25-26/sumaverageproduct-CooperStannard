@@ -33,7 +33,7 @@ public class SumProductAverage {
             double num1 = sc.nextDouble();
             System.out.print("Enter a number:  ");
             double num2 = sc.nextDouble();
-            System.out.println("Enter a number:  ");
+            System.out.print("Enter a number:  ");
             double num3 = sc.nextDouble();
 
             // Preforms the math and prints the answer
