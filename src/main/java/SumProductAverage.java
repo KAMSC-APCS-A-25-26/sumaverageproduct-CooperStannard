@@ -22,7 +22,7 @@ public class SumProductAverage {
 
         // Signature
         System.out.println("Cooper Stannard\nAPCS-A\n2.2 and 2.3\n\n");
-        
+
         //Asks for number of runs
         System.out.print("Enter number of runs:  ");
         double numruns = sc.nextDouble();
@@ -44,7 +44,8 @@ public class SumProductAverage {
             System.out.println("The product is " + prod);
 
             double avg = sum/3;
-            System.out.println("The average is " + avg +"\n");
+            System.out.println("The average is " + avg +"\n\n");
+
         }
 
     }
