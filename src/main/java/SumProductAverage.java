@@ -21,7 +21,7 @@ public class SumProductAverage {
         Scanner sc = new Scanner(System.in);
 
         // Signature
-        System.out.println("Cooper Stannard\nAPCS-A\n2.2 and 2.3\n\n");
+        System.out.println("Cooper Stannard\nAPCS-A\nSumProductAverage\n\n");
 
         //Asks for number of runs
         System.out.print("Enter number of runs:  ");
